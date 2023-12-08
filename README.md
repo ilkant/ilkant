@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilkant Ilpo Kantonen
-- 👀 I’m interested in java, python, julia and dna genealogy
+- 👀 I’m interested in python and dna genealogy
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on everyone who wants join in
 - 📫 How to reach me email
